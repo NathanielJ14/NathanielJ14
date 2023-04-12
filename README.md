@@ -40,6 +40,7 @@ I'm a software developer and creator who loves to create new things. I enjoy dev
   <li>Lifting</li>
   <li>Traveling</li>
   <li>Hiking</li>
+ <li>Golfing</li>
  </ul>
  <br />
  
