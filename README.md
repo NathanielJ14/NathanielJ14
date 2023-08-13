@@ -4,8 +4,6 @@
 
 I'm a software developer and creator who loves to create new things. I enjoy developing and designing new projects in addition to learning and implementing new technology, and I also have a lot of interest in learning game design. I am planning on one day being able to travel around the country in a van and work on-the-go alongside my girlfriend who is going to be a travel nurse. 
 
-IMPORTANT: Please note that while attempting to organize my repositories, they were deleted and therefore do now show up on my contributions chart. This chart is not an accurate representation of the work I have done over the last three months as I was enrolled in the Coding Dojo Bootcamp. I will be making an attempt to re-enter the projects as soon as possible. I hope that this inconvenience will not alter any perceptions of me moving forward in the job application process. Thank you.
-
 ---
 
 ### 🧰 Langauges and Tools
