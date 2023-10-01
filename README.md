@@ -1,6 +1,6 @@
 # 💻 Nathaniel Albert
 
-`(Developer/Marketing Content Creator/Adventurer)`
+`(Developer/Creator/Adventurer)`
 
 I'm a software developer and creator who loves to create new things. I enjoy developing and designing new projects in addition to learning and implementing new technology, and I also have a lot of interest in learning game design. I am planning on one day being able to travel around the country in a van and work on-the-go alongside my girlfriend who is going to be a travel nurse. 
 
