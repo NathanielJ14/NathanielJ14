@@ -1,6 +1,6 @@
 # 💻 Nathaniel Albert
 
-`(Developer/Creator/Adventurer)`
+`(Developer/Creator/Designer)`
 
 I'm a software developer who loves to create new things. I enjoy developing and designing new projects in addition to learning and implementing new technology. I am planning on one day being able to travel around the country in a van and work on-the-go alongside my fiancee who is going to be a travel nurse. 
 
@@ -47,6 +47,6 @@ I'm a software developer who loves to create new things. I enjoy developing and 
  #
  
  <h3>Contact Me</h3>
- <a href="https://www.linkedin.com/in/nathaniel-j-albert/" >LinkedIn</a> / Email: nathanielalbert1202@gmail.com / Phone: 1-814-449-9353
+ <a href="https://www.linkedin.com/in/nathaniel-j-albert/" >LinkedIn</a> / Email: nathanielalbert1202@gmail.com / Phone: 1-814-807-8977
  
  
