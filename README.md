@@ -4,6 +4,8 @@
 
 I'm a software developer who loves to create new things. I enjoy developing and designing new projects in addition to learning and implementing new technology. I am planning on one day being able to travel around the country in a van and work on-the-go alongside my fiancee who is going to be a travel nurse. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanielJ14)](https://github.com/NathanielJ14/github-readme-stats)
+
 ---
 
 ### 🧰 Langauges and Tools
