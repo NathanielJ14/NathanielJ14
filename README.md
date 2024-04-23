@@ -1,11 +1,10 @@
 # 💻 Nathaniel Albert `(Software Developer)`
 
-<h2>I enjoy working with Javascript, but I also like dabbling in C# in my free time.</h2>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanielJ14)](https://github.com/NathanielJ14/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NathanielJ14)](https://git.io/streak-stats)
 
 ---
+<p>I enjoy working with Javascript, but I also like dabbling in C# in my free time.</p>
 
 ### 🧰 Langauges and Tools
 
