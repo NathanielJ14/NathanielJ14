@@ -1,14 +1,6 @@
-# 💻 Nathaniel Albert
+# 💻 Nathaniel Albert `(Software Developer)`
 
-`(Software Developer)`
-
-<p>I enjoy working with Javascript, but I also like dabbling in C# in my free time.</p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nathaniel-j-albert/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
-</p>
+<h2>I enjoy working with Javascript, but I also like dabbling in C# in my free time.</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanielJ14)](https://github.com/NathanielJ14/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NathanielJ14)](https://git.io/streak-stats)
